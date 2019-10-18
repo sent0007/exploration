@@ -9,5 +9,11 @@ html {
 
 h1 {
   font-size: 5rem;
+  font-family: sans-serif;
   text-align: center;
+}
+
+strong {
+  display: inline-block;
+  text-align: left;
 }
